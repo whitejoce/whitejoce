@@ -12,10 +12,6 @@
 ░░█▄▄█░░█▄▄█░░░░░░█▄▄█░░█▄▄█░░░░
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-作者：SnowPeach
-链接：https://www.zhihu.com/question/382903900/answer/1148052741
-来源：知乎
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
 <!--
 **whitejoce/whitejoce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
